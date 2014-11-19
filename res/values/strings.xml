@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DaNang Travel</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">DU LỊCH</string>
+    <string name="title_activity_du_lich">DuLichActivity</string>
+    <string name="title_activity_an_uong">AnUongActivity</string>
+    <string name="title_activity_mua_sam">MuaSamActivity</string>
+    <string name="title_activity_ba_na_hill">BaNaHillActivity</string>
+    <string name="title_activity_bana_hill">BanaHillActivity</string>
+    <string name="title_activity_cao_lau_hoi_an">CaoLauHoiAnActivity</string>
+    <string name="title_activity_cho_han">ChoHanActivity</string>
+    <string name="caolauhoian">Cao lầu có từ bao giờ? Thật khó xác định được thời gian. Chỉ biết rằng, món ăn này đã song hành cùng với phố cổ Hội An. 
+        
+        Nếu có dịp đến tham quan hai Di sản Văn hoá Thế giới là Đô thị cổ Hội An và Di tích Mỹ Sơn, thuộc tỉnh Quảng Nam, xin du khách đừng quên thưởng thức món ăn đặc sản cao lầu.
+        Mới nhìn thoáng qua, cao lầu trông giống như mì Quảng, nhưng khi thưởng thức mới ngộ ra không phải là mì lại càng không giống phở. 
+        Cao lầu ngon hay không phần nhiều phụ thuộc vào nước nhưn. Các bà nội trợ thường chọn  thịt heo đùi vừa mỏng da vừa nhiều thịt, để nguyên khổ ướp nước mắm, ngũ vị hương, gia vị cho thật thấm thía. 
+        Sau đó xíu thịt với lửa đỏ vừa phải. Khi thịt chuyển sang màu vàng ươm, bốc mùi thơm ngây ngất, vớt thịt ra chỉ để nước xíu lại. Cuối cùng khử cà chua, hành tây đã xay nhỏ với dầu, đổ hỗn hợp này cùng nước thịt xíu để làm nước xốt nhưn.
+        Còn gì thú vị bằng khi được thưởng thức món cao lầu ngay trên đất Hội An.</string>
+    <string name="title_activity_mi_hanh">MiHanhActivity</string>
+    <string name="mihanh">Đến với Mỹ Hạnh các bạn vừa thưởng thức hương vị của biển, lại vừa ngắm nhìn bãi cát trắng nối dài như vô tận của Đà nẵng.
+         Vừa được thưởng thức hải sản vừa được ngắm biển vừa được nghe tiếng sóng biển quả là một điều tuyệt vời. Hải sản ở đây rất tươi ngon và rất phong phú về các món ăn, Khi bạn vào đây thì có thể thỏa thích chọn các món ăn biển được chế biễn công phu, chất lượng bởi những người đầu bếp đạt chuẩn.
+         Tọa lạc tại Lô 18 - Đường Hoàng Sa – Sơn Trà - TP.Đà Nẵng Cái tên Mỹ Hạnh bắt đầu được thực khách biết đến bởi phong cách ẩm thực hải sản đặc trưng mà khó tìm thấy trong lòng thành phố trung tâm. Giữa những món hải sản tươi sống và không gian rộng rãi, nhà hàng Mỹ Hạnh như đưa thực khách ra tận không gian miền biển, gió lộng và vô vàn các loại hải sản.
+         Đến Mỹ Hạnh Bạn và người thân, Bạn bè của mình được thưởng thức hương vị tươi ngon của Hải Sản bốn miền, đến Mỹ Hạnh để tạo cho mình và cho bạn bè người thân những phút giây vui vẻ nhất.</string>
+    <string name="title_activity_banh_trang">BanhTrangActivity</string>
+    <string name="banhtrangtran">Nhà hàng bánh tráng Trần đã nổi tiếng từ lâu ở Đà Nẵng. Mặn mòi chua cay, thực khách sẽ xuýt xoa khi thưởng thức nước chấm có hương vị đặc trưng xứ Quảng và thưởng thức nét độc đáo của lát thịt heo hai đầu da. Đã một lần dùng món Bánh tráng thịt heo Trần chắc chắn bạn không thể quên được món ăn dân dã, nức tiếng gần xa lâu nay.
+
+Với Rau xanh sắp trên bánh tráng mỏng kẹp bánh ướt gắp miếng thịt vào giữa, trên cùng là mấy lát dưa chuột, chuối chát cuộn thật chặt chấm mắm nêm ớt tỏi nhai từ từ để nghe được hương vị mặn mòi miền trung vừa ăn vừa trò chuyện trong một không gian đặc trưng ẩm thực thì đó cũng là những giây phút thư giãn hiếm hoi trong cuộc sống bận rộn đời thường.
+Hiện tại Trần đã có đến 4 cơ sở và nhà hàng đạt chuẩn ở Đà Nẵng. với trụ sở chính ở Hải Phòng, 2 nhà hàng: Trần II, Trần Tâm ở đường Hải Phòng, Nhà hàng sân vườn Trần ở Lê Duẩn gần cầu quay sông Hàn. Trần ở đường Duy Tân gần khu quân đội quân khu V Đà Nẵng.
+Trần đã chiếm được lòng tin của người dân Đà Nẵng và khách thập phương gần xa khi đến du lịch Đà Nẵng. Đến Đà Nẵng mà không được thưởng thức món ăn này thì quả là một sự thiếu sót. 
+</string>
+
+</resources>
