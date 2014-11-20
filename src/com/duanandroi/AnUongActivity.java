@@ -2,8 +2,11 @@ package com.duanandroi;
 
 import com.duanandroi.R;
 import com.thongtinanuong.BanhTrangActivity;
+import com.thongtinanuong.BanhmiActivity;
 import com.thongtinanuong.CaoLauHoiAnActivity;
 import com.thongtinanuong.MiHanhActivity;
+import com.thongtinanuong.MiQuangActivity;
+import com.thongtinanuong.PubActivity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -61,6 +64,39 @@ public class AnUongActivity extends Activity {
 				Intent banhtrang = new Intent(AnUongActivity.this,
 						BanhTrangActivity.class);
 				startActivity(banhtrang);
+
+			}
+		});
+		rsbeerpub.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+				Intent pub = new Intent(AnUongActivity.this,
+						PubActivity.class);
+				startActivity(pub);
+
+			}
+		});
+		rsbanhmihoian.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+				Intent banhmi = new Intent(AnUongActivity.this,
+						BanhmiActivity.class);
+				startActivity(banhmi);
+
+			}
+		});
+		rsmiquang.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+				Intent miquang = new Intent(AnUongActivity.this,
+						MiQuangActivity.class);
+				startActivity(miquang);
 
 			}
 		});

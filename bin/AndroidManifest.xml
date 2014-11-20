@@ -65,6 +65,50 @@
             android:name="com.thongtinanuong.BanhTrangActivity"
             android:label="@string/title_activity_banh_trang" >
         </activity>
+        <activity
+            android:name="com.thongtinanuong.PubActivity"
+            android:label="@string/title_activity_pub" >
+        </activity>
+        <activity
+            android:name="com.thongtinanuong.BanhmiActivity"
+            android:label="@string/title_activity_banhmi" >
+        </activity>
+        <activity
+            android:name="com.thongtinanuong.MiQuangActivity"
+            android:label="@string/title_activity_mi_quang" >
+        </activity>
+        <activity
+            android:name=".BanahillActivity"
+            android:label="@string/title_activity_banahill" >
+        </activity>
+        <activity
+            android:name="com.thongtindulich.PhoBienActivity"
+            android:label="@string/title_activity_pho_bien" >
+        </activity>
+        <activity
+            android:name="com.thongtindulich.PhoCoHoiAnActivity"
+            android:label="@string/title_activity_pho_co_hoi_an" >
+        </activity>
+        <activity
+            android:name="com.thongtindulich.CityBridgeActivity"
+            android:label="@string/title_activity_city_bridge" >
+        </activity>
+        <activity
+            android:name="com.thongtindulich.LinhUngActivity"
+            android:label="@string/title_activity_linh_ung" >
+        </activity>
+        <activity
+            android:name="com.thongtindulich.NguHanhSonActivity"
+            android:label="@string/title_activity_ngu_hanh_son" >
+        </activity>
+        <activity
+            android:name="com.thongtinmuasam.MingheHoiAnActivity"
+            android:label="@string/title_activity_minghe_hoi_an" >
+        </activity>
+        <activity
+            android:name="com.thongtinmuasam.MingheDaActivity"
+            android:label="@string/title_activity_minghe_da" >
+        </activity>
     </application>
 
 </manifest>

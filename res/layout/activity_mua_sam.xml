@@ -22,7 +22,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="3dp"
-                android:orientation="vertical" >
+                android:orientation="vertical" 
+                android:id="@+id/mschohan">
 
                 <ImageView
                     android:layout_width="match_parent"
@@ -47,57 +48,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="3dp"
-                android:orientation="vertical" >
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="140dp"
-                    android:src="@drawable/mschocon" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:gravity="center"
-                    android:text="Chợ Cồn (Đà Nẵng) - nét đẹp xưa và nay "
-                    android:textAppearance="?android:attr/textAppearanceMedium" />
-
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Là địa điểm mua sắm quen thuộc của mọi người dân Đà Nẵng."
-                    android:textStyle="italic" />
-            </LinearLayout>
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_margin="3dp"
-                android:orientation="vertical" >
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="140dp"
-                    android:src="@drawable/msbigcdanang" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:gravity="center"
-                    android:text="Big C Đà Nẵng - địa điểm mua sắm thuận lợi"
-                    android:textAppearance="?android:attr/textAppearanceMedium" />
-
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Khi đến với thành phố Đà Nẵng du lịch, tham quan hay công tác, thì siêu thị Big C Đà Nẵng sẽ là một địa điểm thuận lợi cho việc mua sắm của du khách. "
-                    android:textStyle="italic" />
-            </LinearLayout>
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_margin="3dp"
-                android:orientation="vertical" >
+                android:orientation="vertical"
+                android:id="@+id/msminghehoian" >
 
                 <ImageView
                     android:layout_width="match_parent"
@@ -122,7 +74,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="3dp"
-                android:orientation="vertical" >
+                android:orientation="vertical" 
+                android:id="@+id/msmingheda">
 
                 <ImageView
                     android:layout_width="match_parent"
