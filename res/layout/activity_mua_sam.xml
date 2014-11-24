@@ -7,7 +7,8 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.duanandroi.MuaSamActivity" >
+    tools:context="com.duanandroi.MuaSamActivity"
+    android:background="@drawable/nen1" >
 
     <ScrollView
         android:layout_width="match_parent"
@@ -19,11 +20,11 @@
             android:orientation="vertical" >
 
             <LinearLayout
+                android:id="@+id/mschohan"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="3dp"
-                android:orientation="vertical" 
-                android:id="@+id/mschohan">
+                android:orientation="vertical" >
 
                 <ImageView
                     android:layout_width="match_parent"
@@ -44,12 +45,17 @@
                     android:textStyle="italic" />
             </LinearLayout>
 
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/darker_gray" />
+
             <LinearLayout
+                android:id="@+id/msminghehoian"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="3dp"
-                android:orientation="vertical"
-                android:id="@+id/msminghehoian" >
+                android:orientation="vertical" >
 
                 <ImageView
                     android:layout_width="match_parent"
@@ -70,12 +76,17 @@
                     android:textStyle="italic" />
             </LinearLayout>
 
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/darker_gray" />
+
             <LinearLayout
+                android:id="@+id/msmingheda"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="3dp"
-                android:orientation="vertical" 
-                android:id="@+id/msmingheda">
+                android:orientation="vertical" >
 
                 <ImageView
                     android:layout_width="match_parent"

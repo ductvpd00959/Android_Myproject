@@ -7,7 +7,8 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.duanandroi.AnUongActivity" >
+    tools:context="com.duanandroi.AnUongActivity"
+    android:background="@drawable/nen1" >
 
     <ScrollView
         android:layout_width="match_parent"
@@ -44,6 +45,11 @@
                     android:textStyle="italic" />
             </LinearLayout>
 
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/darker_gray" />
+
             <LinearLayout
                 android:id="@+id/rsbanhtrang"
                 android:layout_width="match_parent"
@@ -69,6 +75,11 @@
                     android:text="Bánh tráng cuốn thịt heo ngon nổi tiếng bởi thịt mềm và kỹ thuật thái thịt với các miếng đều tăm tắp, mỡ ở 2 đầu và thịt nạc ở giữa, mỏng tang."
                     android:textStyle="italic" />
             </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/darker_gray" />
 
             <LinearLayout
                 android:id="@+id/rsbeerpub"
@@ -96,6 +107,11 @@
                     android:textStyle="italic" />
             </LinearLayout>
 
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/darker_gray" />
+
             <LinearLayout
                 android:id="@+id/rsbanhmihoian"
                 android:layout_width="match_parent"
@@ -122,6 +138,11 @@
                     android:textStyle="italic" />
             </LinearLayout>
 
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/darker_gray" />
+
             <LinearLayout
                 android:id="@+id/rsCaoLau"
                 android:layout_width="match_parent"
@@ -147,6 +168,11 @@
                     android:text="Nhắc đến món ngon phố Hội, nhiều người nhớ ngay món ăn có tên vừa quen vừa lạ, cao lầu."
                     android:textStyle="italic" />
             </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/darker_gray" />
 
             <LinearLayout
                 android:id="@+id/rsmiquang"
